@@ -1,6 +1,6 @@
 # Ford-GoBike-System-Data
 
-![image](https://user-images.githubusercontent.com/86546153/134952418-11c8d84d-c961-4c21-99bd-5ef108d562a4.png)
+![image](https://user-images.githubusercontent.com/86546153/134952418-11c8d84d-c961-4c21-99bd-5ef108d562a4.png).
 
 # Investigation Overview
 Formerly known as Ford GoBikes, renamed Lyft Bikes is a regional public bicycle sharing system in the San Francisco Bay Area, California.My overall goals are: find which days the costomer and the subscribers use the bike the most and comber between them and find the mean duration dor both of them .
